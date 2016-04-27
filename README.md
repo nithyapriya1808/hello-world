@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository creation. Lets see how it goes.
+This is my branch creation. Git does not seem too complicated and over-the-head as of now. Lets see what happens.
